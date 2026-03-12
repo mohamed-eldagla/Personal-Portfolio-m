@@ -2,7 +2,7 @@
 
 # 🚀 Mohamed Eldagla — Personal Portfolio
 
-**AI & Data Science Engineer | Researcher | Builder**
+**AI & Data Science Engineer | Researcher**
 
 A modern, responsive portfolio built with React, TypeScript, and Framer Motion — showcasing projects, experience, publications, and more.
 
@@ -118,14 +118,7 @@ Cards featuring university logos (GIU & E-JUST) with GPA badges.
 
 ## 📬 Contact
 
-- **Email:** [mohamedeldagla@gmail.com](mailto:mohamedeldagla@gmail.com)
-- **LinkedIn:** [linkedin.com/in/mohamed-el-dagla](https://linkedin.com/in/mohamed-el-dagla)
-- **GitHub:** [github.com/mohamed-eldagla](https://github.com/mohamed-eldagla)
+- **Email:** [meldagla3@gmail.com](mailto:meldagla3@gmail.com)
 
----
-
-<div align="center">
-
-**Built with ❤️ by Mohamed Eldagla**
 
 </div>
