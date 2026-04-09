@@ -2,7 +2,7 @@ import AnimatedSection from "./AnimatedSection";
 import { GraduationCap, Briefcase, BookOpen, Sparkles, Globe, Heart, Users } from "lucide-react";
 
 const stats = [
-  { icon: GraduationCap, value: "3.8", label: "GPA (MSc)", accent: true },
+  { icon: GraduationCap, value: "4.0", label: "GPA (MSc)", accent: true },
   { icon: BookOpen, value: "Q1", label: "Published Journal", accent: false },
   { icon: Briefcase, value: "5+", label: "Internships", accent: false },
   { icon: Sparkles, value: "1st", label: "Rank in Final Semester", accent: true },
