@@ -8,7 +8,7 @@ const education = [
     degree: "MSc. in Data Science",
     school: "The German International University in Cairo (GIU)",
     period: "Oct 2025 – Present",
-    gpa: "3.8/4.0",
+    gpa: "4.0/4.0",
     note: "Full Fellowship Recipient",
     detail:
       "Pursuing advanced research in adversarial attacks on LLMs and autonomous vehicles, combining German academic precision with cutting-edge AI.",
