@@ -5,7 +5,7 @@ const activities = [
   {
     icon: Shield,
     title: "Be an Ambassador Program – Certified TOT (Batch 4)",
-    org: "Ministry of Planning & Economic Development",
+    org: "Ministry of Foreign Affairs, Planning & Economic Development",
     period: "Cairo, Egypt",
     points: [
       "Graduated from the 'Be an Ambassador' program and selected as a Certified Trainer of Trainers (TOT), mentoring youth on leadership, diplomacy, and community development.",
