@@ -93,7 +93,7 @@ const HeroSection = () => (
           </a>
         ))}
         <a
-          href="https://drive.google.com/file/d/1Po_AuQZUZ16d1H1_E3WFHybVr-BIccjH/view?usp=sharing"
+          href="https://drive.google.com/file/d/1C98O9LdjybhUczmuTDdOyqycP-XBc3As/view?usp=sharing"
           target="_blank"
           rel="noreferrer"
           className="flex items-center gap-2 px-5 py-2.5 rounded-xl glass-card transition-all duration-300 hover:scale-105 hover:bg-white/10 text-sm font-medium"
